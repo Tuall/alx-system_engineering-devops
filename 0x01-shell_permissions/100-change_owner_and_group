@@ -1,2 +1,2 @@
 #!/bin/bash
-"chown vincent:staff *"
+echo 'chown vincent:staff *'
