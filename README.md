@@ -4,3 +4,4 @@
  4. Last 10 lines of files
  5. first 10 lines of files
  6. Third line of file
+ 7. Creates a file  with exact name
