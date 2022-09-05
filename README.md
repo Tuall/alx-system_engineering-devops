@@ -4,4 +4,5 @@
  4. Last 10 lines of files
  5. first 10 lines of files
  6. Third line of file
+ 8.script that writes into file the absolute result of a command 
  7. Creates a file  with exact name
