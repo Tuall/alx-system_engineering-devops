@@ -7,3 +7,4 @@
  8.script that writes into file the absolute result of a command 
  7. Creates a file  with exact name
  9. Duplicate last line of file
+10. no more js
