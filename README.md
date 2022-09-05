@@ -9,3 +9,4 @@
  9. Duplicate last line of file
 10. no more js
 11. a script that counts the number of directories and sub-directories in the current directory
+13. A script that takes a list of words as input and prints only words that appear exactly once
