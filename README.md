@@ -13,3 +13,4 @@
 13. A script that takes a list of words as input and prints only words that appear exactly once
 14. Display lines containing the pattern “root” from the file /etc/passw
 15. count that word
+16. Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
