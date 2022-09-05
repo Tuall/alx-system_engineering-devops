@@ -8,3 +8,4 @@
  7. Creates a file  with exact name
  9. Duplicate last line of file
 10. no more js
+11. a script that counts the number of directories and sub-directories in the current directory
