@@ -1,1 +1,1 @@
-A script prints "Hello World" on run.
+Task 0. Hello World
