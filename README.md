@@ -18,3 +18,4 @@
 18.Display all lines of the file starting with a letter.
 19. A-Z
 20. A script that removes all letters c and C from input.
+21. A script that reverse its input.
