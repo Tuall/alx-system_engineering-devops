@@ -2,4 +2,5 @@
  2. Content of file Task 
  3. Contents of 2 Files Task 
  4. Last 10 lines of files
+ 5. first 10 lines of files
  6. Third line of file
