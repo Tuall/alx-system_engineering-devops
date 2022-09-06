@@ -7,3 +7,4 @@
 6. script that creates a new local variable.
 7.script that creates a new global variable.
 8. TRUEKNOWLEDGE
+9.  script that prints the result of POWER divided by DIVIDE
