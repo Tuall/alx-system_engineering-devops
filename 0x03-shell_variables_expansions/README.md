@@ -2,3 +2,4 @@
 1. script that prints hello user
 2. The path to success is to take massive, determined action
 3. script that counts the number of directories in the PATH
+4.  script that lists environment variables
