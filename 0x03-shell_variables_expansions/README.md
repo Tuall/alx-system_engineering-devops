@@ -6,3 +6,4 @@
 5. script that lists all local variables and environment variables, and function
 6. script that creates a new local variable.
 7.script that creates a new global variable.
+8. TRUEKNOWLEDGE
